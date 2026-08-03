@@ -1,4 +1,4 @@
-## Hi, I'm Onur Özer
+## Hi, I'm Onur Özer!
 
 I'm a geneticist with a PhD in computational immunology. My research is centered around a straightforward question: Why do we get sick? More specifically, why are some people more prone to certain diseases, whether it is an infectious disease, an autoimmnue condition or even cancer, while others stay unaffected, and what is the genetic basis of that difference?
 
