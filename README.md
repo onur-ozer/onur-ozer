@@ -61,7 +61,7 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 **[Unique Pathogen Peptidomes Facilitate Pathogen-Specific Selection and Specialization of MHC Alleles](https://doi.org/10.1093/molbev/msab176)**
 *Özer O, Lenz TL. Molecular Biology and Evolution, 2021*
 
-![Figure 1](msab176f1.jpeg)
+![Figure 1](figures/msab176f1.jpeg)
 
 Built a reference peptidome of 51.9 million unique 9-mer peptides from the proteomes of 36 representative human pathogens (viruses, bacteria, eukaryotic parasites) and found that 98.8% of peptides were unique to a single pathogen species.
 
