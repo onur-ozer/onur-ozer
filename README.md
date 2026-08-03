@@ -1,3 +1,31 @@
+## Hi, I'm Onur Özer
+
+I'm a geneticist with a PhD in computational immunology. My research is centered around a straightforward question: Why do we get sick? More specifically, why are some people more prone to certain diseases while others stay unaffected, and what is the genetic basis of that difference?
+
+I approach this from two angles. One is evolutionary: how and why did these differences arise over time. The other is clinical: how can this information translate into better medical strategies. To answer these questions I've worked with data from both modern humans and ancient humans who died thousands of years ago.
+
+Recently I added machine learning to that foundation through an intensive bootcamp, and I'm now looking to bring that combination into more translational, clinically-oriented work.
+
+**Currently working on:** expanding my machine learning toolkit (scikit-learn, TensorFlow, Keras) and applying it to immunogenomics and clinical prediction problems.
+
+### Projects
+
+- [HLA-scRNA](https://github.com/onur-ozer/HLA-scRNA)
+
+scRNA-seq analysis tutorial in R/Seurat: QC, normalization, PCA/UMAP/t-SNE, Harmony batch correction, label transfer, and MAST differential expression, applied to HLA class I/II expression under interferon stimulation.
+
+- [HLA-PCA](https://github.com/onur-ozer/HLA-PCA)
+
+Interactive R Shiny application for exploring HLA allele and haplotype diversity across populations.
+
+- [HLA Defense](https://onur-ozer.github.io/immune-defence-game/)
+
+Browser-based game simulating the immune system. Aims to make immunology concepts approachable to non-specialist audiences.
+
+- [BRAINNet](https://github.com/simonwilliams32/MRI_project)
+
+A deep learning model classifying MRI images into healthy or tumor.
+
 
 ### Tech stack
 
