@@ -71,6 +71,7 @@ Identified locus-level differences in binding promiscuity (HLA-A > HLA-B/C) and 
 
 These results provide empirical evidence that antigenic diversity of pathogens shapes the evolution of HLA allelic diversity, and that narrow-repertoire HLA variants persist in populations through specialization against particular pathogens.
 
+---
 
 **[Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers](https://doi.org/10.1186/s13059-026-04214-8)**
 *Özer O, da Silva NA, Haller-Caskie M, Myburgh DA, Piezonka H, et al. Genome Biology, 2026*
@@ -79,6 +80,6 @@ These results provide empirical evidence that antigenic diversity of pathogens s
 
 Analyzed genome-wide and HLA data from individuals buried at Sakhtysh. Genome-wide analysis places all Sakhtysh individuals within the Eastern Hunter-Gatherer (EHG) cluster, showing genetic continuity across the Lyalovo and Volosovo cultural traditions, alongside a sizable WHG-related component likely reflecting shared Paleolithic ancestry rather than later gene flow. 
 
-Developed a pipeline for HLA genotyping, combining multiple tools and automating the error-prone manual process. Using this pipeline together with targeted enrichment, genotyped 27 individuals at classical HLA loci, providing the first look at HLA diversity in ancient hunter-gatherers. The populations showed strikingly low diversity. B\*27:05 reached close to 50% frequency, with a trend in the Ewens-Watterson test hinting at selection. The DRB1*08:01~DQB1*04:02 haplotype, which in European farmers only appears after admixture with WHG, was also common in Sakhtysh, pointing to the deep shared ancestry between WHG and EHG.
+Developed a pipeline for HLA genotyping, combining multiple tools and automating the error-prone manual process. Using this pipeline together with targeted enrichment, genotyped 27 individuals at classical HLA loci, providing the first look at HLA diversity in ancient hunter-gatherers. The populations showed strikingly low diversity. B\*27:05 reached close to 50% frequency, with a trend in the Ewens-Watterson test hinting at selection. The DRB1\*08:01~DQB1\*04:02 haplotype, which in European farmers only appears after admixture with WHG, was also common in Sakhtysh, pointing to the deep shared ancestry between WHG and EHG.
 
 Together, these results provide the first direct evidence that ancient hunter-gatherer populations carried unexpectedly low HLA diversity alongside high-frequency alleles that may reflect specific selective pressures rather than population history alone.
