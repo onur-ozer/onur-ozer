@@ -38,6 +38,8 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat)
 
 **Pipelines & infrastructure**
 
@@ -59,7 +61,7 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 **[Unique Pathogen Peptidomes Facilitate Pathogen-Specific Selection and Specialization of MHC Alleles](https://doi.org/10.1093/molbev/msab176)**
 *Özer O, Lenz TL. Molecular Biology and Evolution, 2021*
 
-![Figure 1](https://academic.oup.com/view-large/figure/304110326/msab176f1.tif)
+![Figure 1](msab176f1.jpeg)
 
 Built a reference peptidome of 51.9 million unique 9-mer peptides from the proteomes of 36 representative human pathogens (viruses, bacteria, eukaryotic parasites) and found that 98.8% of peptides were unique to a single pathogen species.
 
