@@ -87,4 +87,18 @@ Analyzed genome-wide and HLA data from individuals buried at Sakhtysh. Genome-wi
 
 Developed a pipeline for HLA genotyping, combining multiple tools and automating the error-prone manual process. Using this pipeline together with targeted enrichment, genotyped 27 individuals at classical HLA loci, providing the first look at HLA diversity in ancient hunter-gatherers. The populations showed strikingly low diversity. B\*27:05 reached close to 50% frequency, with a trend in the Ewens-Watterson test hinting at selection. The DRB1\*08:01~DQB1\*04:02 haplotype, which in European farmers only appears after admixture with WHG, was also common in Sakhtysh, pointing to the deep shared ancestry between WHG and EHG.
 
-Together, these results provide the first direct evidence that ancient hunter-gatherer populations carried unexpectedly low HLA diversity alongside high-frequency alleles that may reflect specific selective pressures rather than population history alone.
+These results provide the first direct evidence that ancient hunter-gatherer populations carried unexpectedly low HLA diversity alongside high-frequency alleles that may reflect specific selective pressures rather than population history alone.
+
+---
+
+**[Ancient DNA study provides clues to leprosy susceptibility in medieval Europe](https://doi.org/10.1186/s13059-025-03925-8)**
+
+*Romeyer-Dherbey JH, Caliebe A, Özer O, da Silva NA, Mendoza Mejía N, et al. Genome Biology, 2026*
+
+![Figure 4](figures/fig4_leprosy.webp)
+
+A case-control HLA association study on 302 medieval individuals (93 leprosy cases, 209 controls) from 18 archaeological sites in Denmark and Germany. HLA-B\*38 was confirmed as a leprosy risk allele, with three additional variants, HLA-A\*23, DRB1\*04, and DRB1\*13, identified as novel candidates for risk or protection.
+
+Contributed the population genetic and statistical framework of the study: calculated pairwise F<sub>ST</sub> between medieval cases, controls, and modern European populations to rule out stratification as a confounder, compared heterozygosity and allelic richness between groups, and ran computational binding prediction of *M. leprae* peptides across the associated HLA alleles to test whether risk alleles differed in their peptide-binding repertoires. Also built a multivariate logistic regression model incorporating ancient DNA damage metrics (λ parameter, terminal deamination rate, endogenous DNA content) to confirm that the observed HLA associations were not artifacts of DNA preservation differences between cases and controls.
+
+These analyses show that the HLA associations detected in this medieval cohort reflect genuine disease susceptibility signals rather than population structure or DNA damage artifacts, extending leprosy genetic association studies to a European population for the first time.
