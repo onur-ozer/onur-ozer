@@ -55,7 +55,6 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 
 ### Publication highlights
 
-### Selected Publications
 
 **[Unique Pathogen Peptidomes Facilitate Pathogen-Specific Selection and Specialization of MHC Alleles](https://doi.org/10.1093/molbev/msab176)**
 *Özer O, Lenz TL. Molecular Biology and Evolution, 2021*
@@ -63,6 +62,9 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 ![Figure 1](https://academic.oup.com/view-large/figure/304110326/msab176f1.tif)
 
 Built a reference peptidome of 51.9 million unique 9-mer peptides from the proteomes of 36 representative human pathogens (viruses, bacteria, eukaryotic parasites) and found that 98.8% of peptides were unique to a single pathogen species.
+
 Used NetMHCpan to characterize the peptide-binding repertoires of 321 common HLA class-I variants, and showed that variants with narrower repertoires ("fastidious" variants) show significantly higher pathogen-specific specialization scores than promiscuous variants. This pattern is confirmed using experimental IEDB binding data. 
+
 Identified locus-level differences in binding promiscuity (HLA-A > HLA-B/C) and a positive correlation between promiscuity and self-peptide binding for HLA-A and HLA-C.
+
 These results provide empirical evidence that antigenic diversity of pathogens shapes the evolution of HLA allelic diversity, and that narrow-repertoire HLA variants persist in populations through specialization against particular pathogens.
