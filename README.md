@@ -6,9 +6,9 @@ I approach this from two angles. One is evolutionary: how and why did these diff
 
 Recently I added machine learning to that foundation through an intensive bootcamp, and I'm now looking to bring that combination into more translational, clinically-oriented work.
 
-**Currently working on:** expanding my machine learning toolkit (scikit-learn, TensorFlow, Keras) and applying it to immunogenomics and clinical prediction problems.
+**Currently working on:** expanding my machine learning skills (scikit-learn, TensorFlow, Keras) and applying it to immunogenomics and clinical prediction problems.
 
-### Projects
+### Project highlights
 
 - [HLA-scRNA](https://github.com/onur-ozer/HLA-scRNA)
 
@@ -24,7 +24,7 @@ Browser-based game simulating the immune system. Aims to make immunology concept
 
 - [BRAINNet](https://github.com/simonwilliams32/MRI_project)
 
-A deep learning model classifying MRI images into healthy or tumor.
+Deep learning pipeline classifying MRI brain scans as normal or abnormal, and identifying tumor subtype (meningioma, pituitary adenoma, glioma) when present.
 
 
 ### Tech stack
@@ -40,12 +40,29 @@ A deep learning model classifying MRI images into healthy or tumor.
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Pipelines & infrastructure**
+
 ![Snakemake](https://img.shields.io/badge/-Snakemake-039475?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Tools**
+
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/-Bioconductor-172554?style=flat)
+
+
+### Publication highlights
+
+### Selected Publications
+
+**[Unique Pathogen Peptidomes Facilitate Pathogen-Specific Selection and Specialization of MHC Alleles](https://doi.org/10.1093/molbev/msab176)**
+*Özer O, Lenz TL. Molecular Biology and Evolution, 2021*
+
+![Figure 1](https://academic.oup.com/view-large/figure/304110326/msab176f1.tif)
+
+Built a reference peptidome of 51.9 million unique 9-mer peptides from the proteomes of 36 representative human pathogens (viruses, bacteria, eukaryotic parasites) and found that 98.8% of peptides were unique to a single pathogen species.
+Used NetMHCpan to characterize the peptide-binding repertoires of 321 common HLA class-I variants, and showed that variants with narrower repertoires ("fastidious" variants) show significantly higher pathogen-specific specialization scores than promiscuous variants. This pattern is confirmed using experimental IEDB binding data. 
+Identified locus-level differences in binding promiscuity (HLA-A > HLA-B/C) and a positive correlation between promiscuity and self-peptide binding for HLA-A and HLA-C.
+These results provide empirical evidence that antigenic diversity of pathogens shapes the evolution of HLA allelic diversity, and that narrow-repertoire HLA variants persist in populations through specialization against particular pathogens.
