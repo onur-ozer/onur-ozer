@@ -59,6 +59,7 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 
 
 **[Unique Pathogen Peptidomes Facilitate Pathogen-Specific Selection and Specialization of MHC Alleles](https://doi.org/10.1093/molbev/msab176)**
+
 *Özer O, Lenz TL. Molecular Biology and Evolution, 2021*
 
 ![Figure 1](figures/msab176f1.jpeg)
@@ -74,6 +75,7 @@ These results provide empirical evidence that antigenic diversity of pathogens s
 ---
 
 **[Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers](https://doi.org/10.1186/s13059-026-04214-8)**
+
 *Özer O, da Silva NA, Haller-Caskie M, Myburgh DA, Piezonka H, et al. Genome Biology, 2026*
 
 ![Figure 3](figures/fig3_aDNA.webp)
