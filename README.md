@@ -1,6 +1,6 @@
 ## Hi, I'm Onur Özer
 
-I'm a geneticist with a PhD in computational immunology. My research is centered around a straightforward question: Why do we get sick? More specifically, why are some people more prone to certain diseases while others stay unaffected, and what is the genetic basis of that difference?
+I'm a geneticist with a PhD in computational immunology. My research is centered around a straightforward question: Why do we get sick? More specifically, why are some people more prone to certain diseases, whether it is an infectious disease, an autoimmnue condition or even cancer, while others stay unaffected, and what is the genetic basis of that difference?
 
 I approach this from two angles. One is evolutionary: how and why did these differences arise over time. The other is clinical: how can this information translate into better medical strategies. To answer these questions I've worked with data from both modern humans and ancient humans who died thousands of years ago.
 
@@ -70,3 +70,15 @@ Used NetMHCpan to characterize the peptide-binding repertoires of 321 common HLA
 Identified locus-level differences in binding promiscuity (HLA-A > HLA-B/C) and a positive correlation between promiscuity and self-peptide binding for HLA-A and HLA-C.
 
 These results provide empirical evidence that antigenic diversity of pathogens shapes the evolution of HLA allelic diversity, and that narrow-repertoire HLA variants persist in populations through specialization against particular pathogens.
+
+
+**[Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers](https://doi.org/10.1186/s13059-026-04214-8)**
+*Özer O, da Silva NA, Haller-Caskie M, Myburgh DA, Piezonka H, et al. Genome Biology, 2026*
+
+![Figure 3](figures/fig3_aDNA.webp)
+
+Analyzed genome-wide and HLA data from individuals buried at Sakhtysh. Genome-wide analysis places all Sakhtysh individuals within the Eastern Hunter-Gatherer (EHG) cluster, showing genetic continuity across the Lyalovo and Volosovo cultural traditions, alongside a sizable WHG-related component likely reflecting shared Paleolithic ancestry rather than later gene flow. 
+
+Developed a pipeline for HLA genotyping, combining multiple tools and automating the error-prone manual process. Using this pipeline together with targeted enrichment, genotyped 27 individuals at classical HLA loci, providing the first look at HLA diversity in ancient hunter-gatherers. The populations showed strikingly low diversity. B\*27:05 reached close to 50% frequency, with a trend in the Ewens-Watterson test hinting at selection. The DRB1*08:01~DQB1*04:02 haplotype, which in European farmers only appears after admixture with WHG, was also common in Sakhtysh, pointing to the deep shared ancestry between WHG and EHG.
+
+Together, these results provide the first direct evidence that ancient hunter-gatherer populations carried unexpectedly low HLA diversity alongside high-frequency alleles that may reflect specific selective pressures rather than population history alone.
