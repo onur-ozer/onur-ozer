@@ -8,6 +8,7 @@ Recently I added machine learning to that foundation through an intensive bootca
 
 **Currently working on:** expanding my machine learning skills (scikit-learn, TensorFlow, Keras) and applying it to immunogenomics and clinical prediction problems.
 
+
 ### Project highlights
 
 - [HLA-scRNA](https://github.com/onur-ozer/HLA-scRNA)
@@ -25,6 +26,7 @@ Browser-based game simulating the immune system. Aims to make immunology concept
 - [BRAINNet](https://github.com/simonwilliams32/MRI_project)
 
 Deep learning pipeline classifying MRI brain scans as normal or abnormal, and identifying tumor subtype (meningioma, pituitary adenoma, glioma) when present.
+
 
 
 ### Tech stack
@@ -53,6 +55,7 @@ Deep learning pipeline classifying MRI brain scans as normal or abnormal, and id
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/-Bioconductor-172554?style=flat)
+
 
 
 ### Publication highlights
